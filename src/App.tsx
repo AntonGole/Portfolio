@@ -1,28 +1,11 @@
-import ListGroup from "./components/ListGroup";
-import { MouseEvent } from "react";
+import { useState } from "react";
+import "./App.css";
 
 function App() {
-  let items = ["New York", "San Fransisco", "Tokyo", "London", "Paris"];
-
-  const handleClick = (event: MouseEvent) => console.log(event);
-
   return (
-    <>
-      <h1>List</h1>
-      {}
-      <ul className="list-group">
-        {items.length == 0 && <p>No item found</p>}
-        {items.map((item, index) => (
-          <li
-            className="list-group-item"
-            key={item}
-            onClick={handleClick}
-          >
-            {item}
-          </li>
-        ))}
-      </ul>
-    </>
+    <div className="test">
+      <h1 className="title">Anton Gole</h1>
+    </div>
   );
 }
 
