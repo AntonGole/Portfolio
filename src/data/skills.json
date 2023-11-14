@@ -19,5 +19,9 @@
     {
       "title": "CSS",
       "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "Typescript",
+      "imageSrc": "skills/typescript.png"
     }
   ]
