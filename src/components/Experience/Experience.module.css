@@ -27,7 +27,7 @@
     display: flex;
     flex-wrap: wrap;
     gap: 11px;
-    align-self: flex-start
+    align-self: flex-start;
 }
 
 .skill {
@@ -45,6 +45,12 @@
     justify-content: center;
     width: 120px;
     height: 120px;
+    transition: width 0.2s, height 0.2s;
+}
+
+.skillImageContainer:hover {
+    width: 130px;
+    height: 130px;
 }
 
 .skillImageContainer img {
