@@ -1,2 +1,2 @@
 # Portfolio-website
-My portfolio website created with React.js
+My portfolio website created using React
