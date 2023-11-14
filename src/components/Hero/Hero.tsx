@@ -12,7 +12,7 @@ const Hero = () => {
           pursuing a Master's degree in Algorithms, Languages and Logic. Reach
           out if you would like to learn more!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:antongole@hotmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
