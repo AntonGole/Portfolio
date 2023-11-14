@@ -13,6 +13,10 @@
       "imageSrc": "skills/cpp.png"
     },
     {
+      "title": "C#",
+      "imageSrc": "skills/csharp.png"
+    },
+    {
       "title": "React",
       "imageSrc": "skills/react.png"
     },

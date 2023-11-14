@@ -1,0 +1,9 @@
+[
+    {
+      "title": "Waterball",
+      "imageSrc": "projects/waterball.png",
+      "description": "This is a co-located game played on four tablets connected via LAN. It was developed in a team of six as part of my Bachelor's thesis.",
+      "skills": ["C#", "Unity", "Networking"],
+      "source": "https://github.com/AntonGole/Waterball"
+    }
+  ]
