@@ -1,10 +1,12 @@
-import { useState } from "react";
-import "./App.css";
+import styles from "./App.module.css";
+import Hero from "./components/Hero/Hero";
+import Navbar from "./components/Navbar/Navbar";
 
 function App() {
   return (
-    <div className="test">
-      <h1 className="title">Anton Gole</h1>
+    <div className={styles.App}>
+      <Navbar />
+      <Hero />
     </div>
   );
 }
