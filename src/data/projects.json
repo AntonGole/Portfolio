@@ -5,5 +5,12 @@
       "description": "This is a co-located game played on four tablets connected via LAN. It was developed in a team of six as part of my Bachelor's thesis.",
       "skills": ["C#", "Unity", "Networking"],
       "source": "https://github.com/AntonGole/Waterball"
+    },
+    {
+      "title": "Autoclicker Pro",
+      "imageSrc": "projects/autoclicker_pro.png",
+      "description": "Autoclicker Pro is an app that makes it easy to set up automatic clicking in set or random intervals with the help of an easy to use UI. It includes features such as custom clicking duration, start and stop key configuration etc.",
+      "skills": ["Python"],
+      "source": "https://github.com/AntonGole/Autoclicker_Pro"
     }
   ]
