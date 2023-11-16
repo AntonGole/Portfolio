@@ -7,9 +7,23 @@
       "source": "https://github.com/AntonGole/Waterball"
     },
     {
+      "title": "OSRSBot",
+      "imageSrc": "projects/MultipleAndroids.png",
+      "description": "OSRSBot is a Python-based automation tool for controlling Android VMs via ADB (Android Debug Bridge) and VirtualBox. It provides a graphical user interface for managing multiple Android VMs.",
+      "skills": ["Python", "ADB", "Multithreading"],
+      "source": "https://github.com/AntonGole/OSRSBot"
+    },
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "projects/website.png",
+      "description": "This is my personal portfolio website which showcases my experience, skills and projects. It's developed using React and Typescript.",
+      "skills": ["React", "Typescript", "CSS", "HTML"],
+      "source": "https://github.com/AntonGole/Portfolio"
+    },
+    {
       "title": "Autoclicker Pro",
       "imageSrc": "projects/autoclicker_pro.png",
-      "description": "Autoclicker Pro is an app that makes it easy to set up automatic clicking in set or random intervals with the help of an easy to use UI. It includes features such as custom clicking duration, start and stop key configuration etc.",
+      "description": "Autoclicker_Pro is an advanced autoclicking tool developed in Python, designed to automate clicking tasks with both preset and randomized intervals. It's built with a user-friendly interface and provides a range of customization options to suit different user needs.",
       "skills": ["Python"],
       "source": "https://github.com/AntonGole/Autoclicker_Pro"
     }
