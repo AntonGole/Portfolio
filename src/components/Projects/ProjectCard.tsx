@@ -8,7 +8,6 @@ interface Props {
   imageSrc: string;
   description: string;
   skills: string[];
-  demo: string;
   source: string;
 }
 
@@ -17,7 +16,6 @@ const ProjectCard = ({
   imageSrc,
   description,
   skills,
-  demo,
   source,
 }: Props) => {
   return (
