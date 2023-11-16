@@ -17,12 +17,24 @@
       "imageSrc": "skills/csharp.png"
     },
     {
-      "title": "React",
-      "imageSrc": "skills/react.png"
+      "title": "C",
+      "imageSrc": "skills/c.png"
     },
     {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "Haskell",
+      "imageSrc": "skills/haskell.png"
+    },
+    {
+      "title": "Matlab",
+      "imageSrc": "skills/matlab.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
     },
     {
       "title": "Typescript",
