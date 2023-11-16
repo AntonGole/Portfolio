@@ -51,6 +51,7 @@
 .heroImg {
     width: 100%;
     height: auto;
+    object-fit: contain;
     z-index: 1;
     padding: 50px;
 
@@ -100,12 +101,23 @@
     z-index: 0;
 }
 
-@media screen and (max-width: 830px){
+@media screen and (max-width: 1050px){
     .container {
         flex-direction: column-reverse;
     }
 
     .content {
         align-items: center;
+    }
+
+    .heroImg {
+        width: 60%;
+        height: auto;
+        z-index: 1;
+        padding: 10px;
+    }
+
+    .title, .description {
+        text-align: center;
     }
 }

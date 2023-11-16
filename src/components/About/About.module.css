@@ -66,6 +66,8 @@
         background-color: transparent;
         padding-left: 0;
         padding-right: 0;
+        margin-left: 0%;
+        margin-right: 3%;
     }
     .content {
         flex-direction: column;
@@ -82,5 +84,9 @@
     .aboutItem {
         padding-left: 0;
         padding-right: 0;
+    }
+
+    .title {
+        text-align: center;
     }
 }

@@ -21,6 +21,14 @@
       "imageSrc": "skills/c.png"
     },
     {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Typescript",
+      "imageSrc": "skills/typescript.png"
+    },
+    {
       "title": "Git",
       "imageSrc": "skills/git.png"
     },
@@ -31,13 +39,5 @@
     {
       "title": "Matlab",
       "imageSrc": "skills/matlab.png"
-    },
-    {
-      "title": "React",
-      "imageSrc": "skills/react.png"
-    },
-    {
-      "title": "Typescript",
-      "imageSrc": "skills/typescript.png"
     }
   ]
