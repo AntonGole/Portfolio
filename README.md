@@ -4,9 +4,11 @@
 
 Welcome to my personal portfolio website [antongole.com](https://antongole.com)! which showcases my experience, skills and projects.
 
+![Website Screenshot](/assets/projects/website.png)
+
 ## Built With
 
-- **React and TypeScript**: Used the combination of React's component-based architecture and TypeScript's strong typing to build a scalable and maintainable application.
+- **React and TypeScript**: Leveraged the combination of React's component-based architecture and TypeScript's strong typing to build a scalable and maintainable application.
 - **CSS**: Utilized for styling, ensuring a responsive and aesthetically pleasing design.
 - **HTML**: The foundation of the website's structure.
 
