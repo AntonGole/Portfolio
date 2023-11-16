@@ -50,6 +50,7 @@
     .container {
         flex-direction: column;
         gap: 23px;
+        padding: 58px 0;
     }
 
     .text {
