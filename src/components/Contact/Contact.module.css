@@ -16,12 +16,15 @@
     font-size: 80px;
     font-weight: 700;
     letter-spacing: 4px;
+    text-align: center;
 }
 
 .text p {
     font-size: 40px;
     font-weight: 400;
     letter-spacing: 2px;
+    text-align: center;
+    padding: 0% 5%;
 }
 
 .links {
@@ -44,6 +47,8 @@
     font-size: 30px;
     font-weight: 400;
     letter-spacing: 1.5px;
+    padding-right: 15px;
+    word-break: break-all;
 }
 
 @media screen and (max-width: 830px) {
@@ -60,6 +65,20 @@
     }
 
     .links {
-        align-items: left;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .link a {
+        font-size: 24px;
+        word-break: break-all;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .link a {
+        font-size: 18px;
+        word-break: break-all;
     }
 }
