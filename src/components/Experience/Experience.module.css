@@ -122,6 +122,20 @@
     list-style-position: inside; /* Adjusts the bullet points */
 }
 
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.rotateImage {
+    animation: rotate 10s linear infinite;
+    align-self: center;
+}
+
 @media screen and (max-width: 1200px) {
     .content {
         flex-direction: column;
