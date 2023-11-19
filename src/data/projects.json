@@ -2,7 +2,7 @@
     {
       "title": "Waterball",
       "imageSrc": "projects/waterball.png",
-      "description": "This is a co-located game played on four tablets connected via LAN. It was developed in a team of six as part of my Bachelor's thesis.",
+      "description": "Waterball is a co-located game played on four tablets connected via LAN. It was developed in a team of six as part of my Bachelor's thesis.",
       "skills": ["C#", "Unity", "Networking"],
       "source": "https://github.com/AntonGole/Waterball"
     },
@@ -23,7 +23,7 @@
     {
       "title": "Autoclicker Pro",
       "imageSrc": "projects/autoclicker_pro.png",
-      "description": "Autoclicker_Pro is an advanced autoclicking tool developed in Python, designed to automate clicking tasks with both preset and randomized intervals. It's built with a user-friendly interface and provides a range of customization options to suit different user needs.",
+      "description": "Autoclicker Pro is an advanced autoclicking tool developed in Python, designed to automate clicking tasks with both preset and randomized intervals. It's built with a user-friendly interface and provides a range of customization options to suit different user needs.",
       "skills": ["Python"],
       "source": "https://github.com/AntonGole/Autoclicker_Pro"
     }

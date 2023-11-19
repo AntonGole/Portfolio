@@ -8,7 +8,8 @@ const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Anton Gole</h1>
         <p className={styles.description}>
-          I'm a Computer Science and Engineering student at Chalmers currently
+          I'm a Master's Student at Chalmers University of Technology with a
+          Bachelor's degree in Computer Science and Engineering. I'm currently
           pursuing a Master's degree in Algorithms, Languages and Logic. Reach
           out if you would like to learn more!
         </p>

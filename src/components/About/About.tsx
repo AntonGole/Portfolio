@@ -14,9 +14,9 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience of developing software in languages such as
+                I have experience developing software in languages such as
                 Python, Java and C++ both from personal projects as well as from
-                school projects shown down below
+                school projects shown in the projects section
               </p>
             </div>
           </li>
