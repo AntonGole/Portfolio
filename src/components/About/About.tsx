@@ -14,9 +14,9 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing software in languages such as
-                Python, Java and C++ both from personal projects as well as from
-                school projects shown in the projects section
+                I have experience working on projects in languages such as
+                Python, Java and C++. My projects range from academic endeavors
+                to personal initiatives
               </p>
             </div>
           </li>
@@ -25,8 +25,8 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI/Frontend</h3>
               <p>
-                I have experience designing applications with well thought
-                through UX designs
+                I have experience designing intuituve and aesthetically pleasing
+                user interfaces.
               </p>
             </div>
           </li>
