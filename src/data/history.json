@@ -1,9 +1,17 @@
 [
     {
+      "role": "R&D Internship",
+      "organisation": "Ericsson",
+      "startDate": "Jun, 2024",
+      "endDate": "Present",
+      "experiences": ["Research And Development Intern at Packet Core"],
+      "imageSrc": "history/ericsson.png"
+    },
+    {
       "role": "Warehouse Worker",
       "organisation": "SKF Group",
       "startDate": "Jun, 2022",
-      "endDate": "Present",
+      "endDate": "Jun, 2024",
       "experiences": ["Operated forklift to efficiently handle and receive goods", "Managed inventory to maintain accurate stock levels"],
       "imageSrc": "history/skf.png"
     },
