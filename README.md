@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my personal portfolio website [antongole.com](https://antongole.com)! which showcases my experience, skills and projects.
+Welcome to my personal portfolio website [antongole.com](https://antongole.github.io/)! which showcases my experience, skills and projects.
 
 ![Website Screenshot](/assets/projects/website.png)
 
