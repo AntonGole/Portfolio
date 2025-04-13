@@ -45,11 +45,14 @@
     justify-content: center;
     width: 120px;
     height: 120px;
-    transition: width 0.2s, height 0.2s;
+    transform: scale(1) rotate(0deg);
+    transition: transform 0.3s ease, 
+                background-color 0.3s ease;
 }
 
 .skillImageContainer:hover {
     background-color: var(--color-primary);
+    transform: scale(1.05) rotate(3deg);      /* Grows and rotates on hover */
 }
 
 .skillImageContainer img {

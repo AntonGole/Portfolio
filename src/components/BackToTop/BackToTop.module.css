@@ -1,0 +1,26 @@
+.backToTop {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    padding: 12px 18px;
+    font-size: 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  
+    /* Start hidden */
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+  }
+  
+  /* When we add .show, fade in */
+  .show {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+.backToTop:hover {
+    transform: translateY(0) scale(1.1);
+    transition: transform 0.3s ease;
+}

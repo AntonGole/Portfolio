@@ -1,37 +1,49 @@
 [
-    {
-      "role": "R&D Internship",
-      "organisation": "Ericsson",
-      "startDate": "Jun, 2024",
-      "endDate": "Present",
-      "experiences": ["Research And Development Intern at Packet Core"],
-      "imageSrc": "history/ericsson.png"
-    },
-    {
-      "role": "Warehouse Worker",
-      "organisation": "SKF Group",
-      "startDate": "Jun, 2022",
-      "endDate": "Jun, 2024",
-      "experiences": ["Operated forklift to efficiently handle and receive goods", "Managed inventory to maintain accurate stock levels"],
-      "imageSrc": "history/skf.png"
-    },
-    {
-      "role": "Exam Invigilator",
-      "organisation": "University of Gothenburg",
-      "startDate": "Oct, 2021",
-      "endDate": "Nov, 2022",
-      "experiences": ["Ensured the smooth administration of exams at the Institute of Dental Science", "Maintained exam integrity by supervising students and providing clear instructions"],
-      "imageSrc": "history/gu.png"
-    },
-    {
-      "role": "Private Teacher",
-      "organisation": "Allakando",
-      "startDate": "Nov, 2018",
-      "endDate": "Jun, 2019",
-      "experiences": [
-        "Taught high school-level physics and mathematics, improving students' understanding of complex concepts",
-        "Developed personalized lesson plans to address students' individual needs"
-      ],
-      "imageSrc": "history/allakando.png"
-    }
-  ]
+  {
+    "role": "Thesis Worker",
+    "organisation": "Volvo Cars",
+    "startDate": "Jan , 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Thesis Title: Investigating the Impact of Simulation Fidelity on Automotive Decision-Making Systems.", "Developing automatic scene creation mainly in C++ and Unreal Engine."
+  ],
+    "imageSrc": "history/volvo.png"
+  },
+  {
+    "role": "R&D Internship",
+    "organisation": "Ericsson",
+    "startDate": "Jun, 2024",
+    "endDate": "Jan, 2025",
+    "experiences": [
+      "Developed a tool for visualizing traffing model simulations, making it easier for testers to interpret results. Also developed a tool for comparing test overlap in order to remove redundant tests."
+  ],
+    "imageSrc": "history/ericsson4.png"
+  },
+  {
+    "role": "Warehouse Worker",
+    "organisation": "SKF Group",
+    "startDate": "Jun, 2022",
+    "endDate": "Jun, 2024",
+    "experiences": ["Operated forklift to efficiently handle and receive goods", "Managed inventory to maintain accurate stock levels"],
+    "imageSrc": "history/skf.png"
+  },
+  {
+    "role": "Exam Invigilator",
+    "organisation": "University of Gothenburg",
+    "startDate": "Oct, 2021",
+    "endDate": "Nov, 2022",
+    "experiences": ["Ensured the smooth administration of exams at the Institute of Dental Science", "Maintained exam integrity by supervising students and providing clear instructions"],
+    "imageSrc": "history/gu.png"
+  },
+  {
+    "role": "Private Teacher",
+    "organisation": "Allakando",
+    "startDate": "Nov, 2018",
+    "endDate": "Jun, 2019",
+    "experiences": [
+      "Taught high school-level physics and mathematics, improving students' understanding of complex concepts",
+      "Developed personalized lesson plans to address students' individual needs"
+    ],
+    "imageSrc": "history/allakando.png"
+  }
+]

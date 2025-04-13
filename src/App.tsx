@@ -5,6 +5,7 @@ import Experience from "./components/Experience/Experience";
 import Hero from "./components/Hero/Hero";
 import Navbar from "./components/Navbar/Navbar";
 import Projects from "./components/Projects/Projects";
+import BackToTop from "./components/BackToTop/BackToTop";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Experience />
       <Projects />
       <Contact />
+      <BackToTop />
     </div>
   );
 }

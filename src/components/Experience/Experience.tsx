@@ -4,10 +4,18 @@ import styles from "./Experience.module.css";
 import skills from "../../data/skills.json";
 import history from "../../data/history.json";
 import { getImageUrl } from "../../utils";
+import { motion } from "framer-motion";
 
 const Experience = () => {
   return (
-    <section className={styles.container} id="experience">
+    <motion.section
+      className={styles.container}
+      id="experience"
+      initial={{ opacity: 0, y: 50 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.8 }}
+      viewport={{ once: true }}
+    >
       <h2 className={styles.title}>Experience</h2>
       <div className={styles.content}>
         <div className={styles.skills}>
@@ -51,7 +59,7 @@ const Experience = () => {
           })}
         </ul>
       </div>
-    </section>
+    </motion.section>
   );
 };
 
